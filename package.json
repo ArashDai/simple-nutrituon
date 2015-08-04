@@ -6,7 +6,7 @@
 "scripts":{
 },
 
-"author":"Arash Dai not Ryan Yocum",
+"author":"Ryan Yocum",
 "license":"" ,
 "dependencies":{
 	"angular":"1.4.3",	

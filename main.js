@@ -1,3 +1,5 @@
+angular.module('foodApp', []);
+
 var food ={
 	hamburger:{
 		calories:390 ,
