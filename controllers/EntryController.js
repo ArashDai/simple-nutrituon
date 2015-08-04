@@ -8,3 +8,5 @@ function EntryController () {
 		this.items.push({foodItem: this.foodItem, quantity: this.quantity})
 	}
 }
+
+
