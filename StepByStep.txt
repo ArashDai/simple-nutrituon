@@ -1,0 +1,2 @@
+1. we started by creating a index.html, styles.css, and our main.js files
+2. we next made a package.json file and populated the fields based on one of the example projects.

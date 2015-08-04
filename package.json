@@ -1,0 +1,18 @@
+{
+"name":"simple-nutrition" ,
+"version":"1.0.0" ,
+"description":"some simple nutrition facts" ,
+"main": "main.js",
+"scripts":{
+},
+
+"author":"Arash Dai not Ryan Yocum",
+"license":"" ,
+"dependencies":{
+	"angular":"1.4.3",	
+	"express":"^4.13.1",
+	"browserify":"^10.2.4",
+	"gulp":"^3.9.0"
+
+	}
+}
